@@ -1,55 +1,26 @@
-# Environmental Safety Exam Archive and Analysis
+# 環境安全論 試験資料アーカイブ・分析
 
-## 日本語
+このリポジトリは、環境安全論の過去問、講義内小テストの転写、期末試験対策用の分析資料を整理するための個人学習用アーカイブである。
 
-このリポジトリは、環境安全論の過去問、講義内 quiz の転写、期末試験対策用の分析資料を整理するための個人学習用アーカイブである。
+## 内容
 
-### Contents
-
-| Directory | Description |
+| ディレクトリ | 内容 |
 |---|---|
-| [source](source/) | Past exams, quiz transcriptions, and source materials |
-| [final_analysis](final_analysis/) | Final-exam trend analysis, predicted questions, memorization notes, and mock exams |
-| [source_answer_scan](source_answer_scan/) | Supporting scripts and generated summaries for answer/source checks |
+| [source](source/) | 過去問、小テストの転写、元資料に基づく整理 |
+| [final_analysis](final_analysis/) | 期末試験の傾向分析、予想問題、暗記用メモ、模擬試験 |
+| [source_answer_scan](source_answer_scan/) | 解答・資料確認用の補助スクリプトと生成物 |
 
-Start from [final_analysis/README.md](final_analysis/README.md) to navigate the class-specific analysis.
+クラス別の分析へ進む場合は、まず [final_analysis/README.md](final_analysis/README.md) を入口にする。
 
-### Access and Use
+## 利用範囲
 
-This repository is not an open educational resource and is not released as open source.
+このリポジトリは公開教材ではなく、オープンソースとして公開するものでもない。
 
-- Use is limited to the repository owner and authorized members of the relevant course or institution.
-- Redistribution, republication, mirroring, resale, or uploading copies to other services is prohibited without explicit permission from the repository owner and any original right holders.
-- External users must not copy, reuse, modify, or distribute the exam questions, quiz text, source materials, or analysis documents.
-- If any material should not be hosted here, contact the repository owner so it can be removed or corrected.
+- 利用は、リポジトリ所有者および関係する授業・機関の許可された関係者に限る。
+- リポジトリ所有者および原資料の権利者の明示的な許可なく、再配布、転載、複製公開、再販売、外部サービスへのアップロードをしてはならない。
+- 外部利用者は、試験問題、小テスト本文、元資料、分析文書を複製、再利用、改変、配布してはならない。
+- 掲載すべきでない資料が含まれている場合は、リポジトリ所有者に連絡し、削除または修正できるようにする。
 
-### Notes
+## 注意
 
-Some materials are reconstructed from memory or transcribed from images. They may contain errors and should be checked against official course materials when available.
-
-## English
-
-This repository is a personal study archive for Environmental Safety. It organizes past exams, transcribed in-class quizzes, and final-exam preparation analysis.
-
-### Contents
-
-| Directory | Description |
-|---|---|
-| [source](source/) | Past exams, quiz transcriptions, and source materials |
-| [final_analysis](final_analysis/) | Final-exam trend analysis, predicted questions, memorization notes, and mock exams |
-| [source_answer_scan](source_answer_scan/) | Supporting scripts and generated summaries for answer/source checks |
-
-Use [final_analysis/README.md](final_analysis/README.md) as the entry point for class-specific analysis.
-
-### Access and Use
-
-This repository is not an open educational resource and is not open source.
-
-- Use is limited to the repository owner and authorized members of the relevant course or institution.
-- Redistribution, republication, mirroring, resale, or uploading copies to other services is prohibited without explicit permission from the repository owner and any original right holders.
-- External users must not copy, reuse, modify, or distribute the exam questions, quiz text, source materials, or analysis documents.
-- If any material should not be hosted here, contact the repository owner so it can be removed or corrected.
-
-### Notes
-
-Some materials are reconstructed from memory or transcribed from images. They may contain errors and should be checked against official course materials when available.
+一部の資料は記憶に基づく再現、または画像からの転写である。誤りを含む可能性があるため、利用時は可能な範囲で公式の授業資料と照合する。

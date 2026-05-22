@@ -5,7 +5,7 @@
 | セット | 目的 | 問題 | 解答 |
 |---|---|---|---|
 | 第 1 回 | 過去問の固定テンプレート確認 | [問題](set1_template_questions.md) | [解答](set1_template_answers.md) |
-| 第 2 回 | 2026 小テスト / 講義資料補正の確認 | [問題](set2_quiz_focused_questions.md) | [解答](set2_quiz_focused_answers.md) |
+| 第 2 回 | 2026 年小テスト / 講義資料補正の確認 | [問題](set2_quiz_focused_questions.md) | [解答](set2_quiz_focused_answers.md) |
 | 第 3 回 | 核融合・原子力安全寄りの変化球対策 | [問題](set3_variant_questions.md) | [解答](set3_variant_answers.md) |
 | 第 4 回 | ゼロカーボンエネルギー計算対策 | [問題](set4_zero_carbon_calculation_questions.md) | [解答](set4_zero_carbon_calculation_answers.md) |
 

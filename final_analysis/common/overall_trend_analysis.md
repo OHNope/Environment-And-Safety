@@ -1,93 +1,66 @@
-# Environmental Safety Past Exams: Common Trend Analysis
+# 環境安全論 過去問共通傾向分析
 
-## 日本語
+## 分析範囲
 
-### 分析範囲
+この共通分析は、`source/problems/` にある 2022-2025 年の A/B 過去問を対象にする。2026 年小テストは各クラスの年度補正として使い、ここでは混ぜない。
 
-この共通分析は、`source/problems/` にある 2022-2025 年の A/B past exams を対象にする。2026 年 quiz は各クラスの年度補正として使い、ここでは混ぜない。
+## 共通して強いテーマ
 
-### 共通して強いテーマ
-
-| Rank | Theme | Pattern |
+| 順位 | テーマ | 出題パターン |
 |---:|---|---|
-| 1 | Energy forms and energy quality | A/B の両方で安定して出る |
-| 2 | Plastic recycling and plastic waste | MR / CR / TR、または plastic harm として出る |
-| 3 | Radiation and nuclear safety | A は radiation protection、B は fusion calculation に寄りやすい |
-| 4 | Biodiversity and life environment | Keystone species、ecological footprint、biomass |
-| 5 | Green chemistry and chemical management | Green chemistry、PRTR / SDS、novel chemical risks |
-| 6 | Sustainability and climate | Tipping point、SDGs、personal action、sustainable society |
+| 1 | エネルギー形態とエネルギーの質 | A/B の両方で安定して出る |
+| 2 | プラスチックリサイクルと廃プラスチック | MR / CR / TR、またはプラスチックの環境影響として出る |
+| 3 | 放射線と原子力・核融合安全 | A は放射線防護、B は核融合計算に寄りやすい |
+| 4 | 生物多様性と生命環境 | キーストーン種、エコロジカル・フットプリント、バイオマス |
+| 5 | グリーンケミストリーと化学物質管理 | グリーンケミストリー、PRTR / SDS、新規化学物質リスク |
+| 6 | 持続可能性と気候変動 | ティッピングポイント、SDGs、個人の行動、持続可能社会 |
 
-### A/B 共通の学習軸
+## A/B 共通の学習軸
 
-1. `Energy quality`
-   - 電気エネルギーと熱エネルギーの違いを、仕事へ変換できる割合や exergy で説明できる必要がある。
+1. `エネルギーの質`
+   - 電気エネルギーと熱エネルギーの違いを、仕事へ変換できる割合やエクセルギーで説明できる必要がある。
 
-2. `Plastic waste`
-   - A では `stability / lipophilicity / additives` による環境影響、B では `MR / CR / TR` の制度・技術面が出やすい。
+2. `廃プラスチック`
+   - A では `安定性 / 親油性 / 添加剤` による環境影響、B では `MR / CR / TR` の制度・技術面が出やすい。
 
-3. `Radiation`
-   - A は `time / distance / shielding` と `deterministic / stochastic effects` が非常に強い。
-   - B は DT fusion calculation と nuclear/fusion comparison が強いが、quiz 次第で radiation protection も警戒する。
+3. `放射線`
+   - A は `時間 / 距離 / 遮へい` と `確定的影響 / 確率的影響` が非常に強い。
+   - B は DT 核融合計算と原子力・核融合の比較が強いが、小テスト次第で放射線防護も警戒する。
 
-4. `Life environment`
-   - Keystone species は両クラスで使い回しやすい。2026 A/B quiz では ecological footprint、PRTR、biorefinery も出ている。
+4. `生命環境`
+   - キーストーン種は両クラスで使い回しやすい。2026 A/B 小テストではエコロジカル・フットプリント、PRTR、バイオリファイナリーも出ている。
 
-5. `Green chemistry / chemical substances`
-   - A では green chemistry、sustainable chemistry、PRTR / SDS が固定化している。
-   - B では element strategy and materials safety が固定化している。
+5. `グリーンケミストリー / 化学物質`
+   - A ではグリーンケミストリー、サステイナブルケミストリー、PRTR / SDS が固定化している。
+   - B では元素戦略と材料安全が固定化している。
 
-### A クラスの特徴
+## A クラスの特徴
 
 A クラスは、毎年の構成が比較的安定している。典型的には次の順で出る。
 
-1. Plastic waste or recycling
-2. Tipping point or dampness
-3. Radiation protection and radiation effects
-4. Energy quality
-5. Green chemistry / sustainable chemistry
-6. Life environment or PRTR / SDS
-7. True/false questions
-8. Personal action
+1. 廃プラスチックまたはリサイクル
+2. ティッピングポイントまたは湿気・カビ
+3. 放射線防護と放射線影響
+4. エネルギーの質
+5. グリーンケミストリー / サステイナブルケミストリー
+6. 生命環境または PRTR / SDS
+7. 正誤問題
+8. 個人の行動
 
-2024 and 2025 1Q A are especially close to each other, so 2026 1Q A should be read against that template first.
+2024 年度と 2025 年度の 1Q A は特に構成が近いため、2026 年度 1Q A もまずこの型に照らして読む。
 
-### B クラスの特徴
+## B クラスの特徴
 
 B クラスは、A より工学計算・制度論・材料安全に寄る。典型的には次が強い。
 
 1. MR / CR / TR
-2. Environmental assessment
-3. Energy quality and heat engines
-4. Sustainability essay
-5. DT fusion calculation
-6. Life environment or PRTR
-7. Element strategy / materials safety
+2. 環境アセスメント
+3. エネルギーの質と熱機関
+4. 持続可能性の論述
+5. DT 核融合計算
+6. 生命環境または PRTR
+7. 元素戦略 / 材料安全
 
-### 共通結論
+## 共通結論
 
-Past exams 全体では、最も安定しているのは個別年度の細部ではなく、`energy / resource circulation / radiation / biodiversity / chemistry / sustainability` の反復である。A や B の final test を読むときは、この共通軸を土台にして、各クラスの 2026 quiz で補正するのが最も実用的である。
-
-## English
-
-### Scope
-
-This common analysis uses A/B past exams from 2022-2025 in `source/problems/`. The 2026 quizzes are not mixed into this common baseline; they are used as class-specific yearly signals.
-
-### Shared High-Frequency Themes
-
-| Rank | Theme | Pattern |
-|---:|---|---|
-| 1 | Energy forms and energy quality | Stable in both A and B |
-| 2 | Plastic recycling and plastic waste | Appears as MR/CR/TR or plastic environmental harm |
-| 3 | Radiation and nuclear safety | A leans to protection; B leans to fusion calculation |
-| 4 | Biodiversity and life environment | Keystone species, ecological footprint, biomass |
-| 5 | Green chemistry and chemical management | Green chemistry, PRTR/SDS, novel chemical risks |
-| 6 | Sustainability and climate | Tipping point, SDGs, personal action, sustainable society |
-
-### Key Difference
-
-A class is more concept-explanation oriented and repeatedly uses a stable sequence: plastic, tipping point, radiation, energy, green chemistry, PRTR/life environment, true/false, and personal action. B class is more template-driven around engineering, assessment, fusion calculation, and materials safety.
-
-### Conclusion
-
-The strongest common frame is `energy / resource circulation / radiation / biodiversity / chemistry / sustainability`. Use this as the baseline, then adjust with the 2026 quiz signals for the target class.
+過去問全体では、最も安定しているのは個別年度の細部ではなく、`エネルギー / 資源循環 / 放射線 / 生物多様性 / 化学 / 持続可能性` の反復である。A や B の期末試験を読むときは、この共通軸を土台にして、各クラスの 2026 年小テストで補正するのが最も実用的である。

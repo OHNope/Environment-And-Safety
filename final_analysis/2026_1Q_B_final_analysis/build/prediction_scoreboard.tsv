@@ -1,0 +1,18 @@
+topic	label	b_final_exam_presence	b_total_finals	quiz_support_items	tier
+keystone_species	キーストーン種 / 生物多様性	3	5	2	A
+environmental_assessment	環境影響評価（科学性・民主性・制度）	2	5	17	A
+renewable_assessment	再生可能エネルギー事業と環境アセスメント	2	5	8	A
+nuclear_vs_fusion_safety	核分裂 vs 核融合の安全性	3	5	0	B
+heat_engine_efficiency	熱機関 / カルノー効率	2	5	4	B
+mpi_energy_poverty	MPI / エネルギー貧困	2	5	0	B
+radiation_protection	放射線防護 / 自然放射線	0	5	10	B
+prtr_sds	PRTR / SDS / 化学物質管理	1	5	3	C
+biomass_carbon_neutral	バイオマスとカーボンニュートラル	1	5	1	C
+biorefinery_bioplastics	バイオリファイナリー / バイオプラスチック	0	5	3	C
+green_chemistry	グリーンケミストリー / 持続可能な化学	0	5	2	C
+ecological_footprint	エコロジカル・フットプリント	0	5	1	C
+energy_quality	エネルギー形態とエネルギーの質	5	5	10	S
+recycling_plastics	プラスチックリサイクル / MR・CR・TR	5	5	8	S
+materials_safety_elements	元素戦略 / 材料安全の正誤問題	5	5	8	S
+sustainability_essay	持続可能社会に関する総合論述	5	5	3	S
+fusion_energy_calc	DT 核融合エネルギー計算	5	5	0	S

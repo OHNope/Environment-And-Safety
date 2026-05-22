@@ -1,0 +1,3483 @@
+{
+  "dataset_note": "A クラス過去問と 2026 A 小テスト / 講義資料メモ を手動タグ付けした頻度集計。",
+  "source_counts": {
+    "a_final_occurrences": 53,
+    "current_support_occurrences": 17,
+    "a_final_papers": [
+      "2022_A_1Q",
+      "2022_A_2Q",
+      "2023_A_2Q",
+      "2024_A_1Q",
+      "2025_A_1Q",
+      "2025_A_2Q"
+    ]
+  },
+  "a_final_exam_presence": [
+    {
+      "topic": "energy_quality",
+      "label": "エネルギー形態とエネルギーの質",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "radiation_protection",
+      "label": "放射線防護三原則",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "radiation_effects",
+      "label": "確定的影響 / 確率的影響",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "true_false_general",
+      "label": "総合正誤問題",
+      "bucket": "mixed",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7a",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "personal_action",
+      "label": "個人の省エネルギー・省資源実践",
+      "bucket": "mixed",
+      "total": 5,
+      "papers": [
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7b",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "green_chemistry",
+      "label": "グリーンケミストリー / サステイナブルケミストリー",
+      "bucket": "chemicals",
+      "total": 4,
+      "papers": [
+        "2022_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "tipping_point",
+      "label": "地球環境問題のティッピングポイント",
+      "bucket": "sustainability_climate",
+      "total": 4,
+      "papers": [
+        "2022_A_1Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "plastic_recycling",
+      "label": "廃プラスチックリサイクル / MR・CR・TR",
+      "bucket": "resource_waste",
+      "total": 4,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "keystone_species",
+      "label": "キーストーン種 / 生物多様性",
+      "bucket": "life_environment",
+      "total": 3,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "prtr_sds",
+      "label": "PRTR / SDS / 化学物質管理",
+      "bucket": "chemicals",
+      "total": 2,
+      "papers": [
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "prtr_sds",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "prtr_sds",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "dampness",
+      "label": "WHO dampness",
+      "bucket": "sustainability_climate",
+      "total": 2,
+      "papers": [
+        "2022_A_2Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "dampness",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "dampness",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "plastic_harm",
+      "label": "プラスチック環境影響（安定性・親油性・添加剤）",
+      "bucket": "resource_waste",
+      "total": 2,
+      "papers": [
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_harm",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_harm",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "ecological_footprint",
+      "label": "エコロジカル・フットプリント",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "ecological_footprint",
+          "count": 1,
+          "label": "Q6b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "biomass_carbon_neutral",
+      "label": "バイオマスとカーボンニュートラル",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "biomass_carbon_neutral",
+          "count": 1,
+          "label": "Q6a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "heat_engine_efficiency",
+      "label": "熱機関 / カルノー効率",
+      "bucket": "radiation_energy",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "heat_engine_efficiency",
+          "count": 1,
+          "label": "Q4b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "a_final_question_slots": [
+    {
+      "topic": "energy_quality",
+      "label": "エネルギー形態とエネルギーの質",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "energy_quality",
+          "count": 1,
+          "label": "Q4a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "radiation_protection",
+      "label": "放射線防護三原則",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q4",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_protection",
+          "count": 1,
+          "label": "Q3-1",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "radiation_effects",
+      "label": "確定的影響 / 確率的影響",
+      "bucket": "radiation_energy",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "radiation_effects",
+          "count": 1,
+          "label": "Q3-2",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "true_false_general",
+      "label": "総合正誤問題",
+      "bucket": "mixed",
+      "total": 6,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7a",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "true_false_general",
+          "count": 1,
+          "label": "Q7a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "personal_action",
+      "label": "個人の省エネルギー・省資源実践",
+      "bucket": "mixed",
+      "total": 5,
+      "papers": [
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q8",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7b",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "personal_action",
+          "count": 1,
+          "label": "Q7b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "green_chemistry",
+      "label": "グリーンケミストリー / サステイナブルケミストリー",
+      "bucket": "chemicals",
+      "total": 4,
+      "papers": [
+        "2022_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "green_chemistry",
+          "count": 1,
+          "label": "Q5",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "tipping_point",
+      "label": "地球環境問題のティッピングポイント",
+      "bucket": "sustainability_climate",
+      "total": 4,
+      "papers": [
+        "2022_A_1Q",
+        "2023_A_2Q",
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "tipping_point",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "plastic_recycling",
+      "label": "廃プラスチックリサイクル / MR・CR・TR",
+      "bucket": "resource_waste",
+      "total": 4,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "plastic_recycling",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "keystone_species",
+      "label": "キーストーン種 / 生物多様性",
+      "bucket": "life_environment",
+      "total": 3,
+      "papers": [
+        "2022_A_1Q",
+        "2022_A_2Q",
+        "2023_A_2Q"
+      ],
+      "years": [
+        2022,
+        2023
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_1Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2022_environment_safety_A_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2023_A_2Q",
+          "year": 2023,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "keystone_species",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "prtr_sds",
+      "label": "PRTR / SDS / 化学物質管理",
+      "bucket": "chemicals",
+      "total": 2,
+      "papers": [
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "prtr_sds",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "prtr_sds",
+          "count": 1,
+          "label": "Q6",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "dampness",
+      "label": "WHO dampness",
+      "bucket": "sustainability_climate",
+      "total": 2,
+      "papers": [
+        "2022_A_2Q",
+        "2025_A_2Q"
+      ],
+      "years": [
+        2022,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2022_A_2Q",
+          "year": 2022,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "dampness",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "dampness",
+          "count": 1,
+          "label": "Q2",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "plastic_harm",
+      "label": "プラスチック環境影響（安定性・親油性・添加剤）",
+      "bucket": "resource_waste",
+      "total": 2,
+      "papers": [
+        "2024_A_1Q",
+        "2025_A_1Q"
+      ],
+      "years": [
+        2024,
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2024_A_1Q",
+          "year": 2024,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_harm",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2025_A_1Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "final",
+          "topic": "plastic_harm",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "ecological_footprint",
+      "label": "エコロジカル・フットプリント",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "ecological_footprint",
+          "count": 1,
+          "label": "Q6b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "biomass_carbon_neutral",
+      "label": "バイオマスとカーボンニュートラル",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "biomass_carbon_neutral",
+          "count": 1,
+          "label": "Q6a",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "heat_engine_efficiency",
+      "label": "熱機関 / カルノー効率",
+      "bucket": "radiation_energy",
+      "total": 1,
+      "papers": [
+        "2025_A_2Q"
+      ],
+      "years": [
+        2025
+      ],
+      "details": [
+        {
+          "paper_id": "2025_A_2Q",
+          "year": 2025,
+          "class_code": "A",
+          "quarter": "2Q",
+          "source_type": "final",
+          "topic": "heat_engine_efficiency",
+          "count": 1,
+          "label": "Q4b",
+          "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "a_2026_quiz_pdf_support": [
+    {
+      "topic": "climate_sustainability",
+      "label": "持続可能性 / SDGs / 気候変動対策",
+      "bucket": "sustainability_climate",
+      "total": 15,
+      "papers": [
+        "2026_A_quiz_energy",
+        "2026_A_quiz_sustainability",
+        "2026_A_quiz_zero_carbon"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_energy",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "climate_sustainability",
+          "count": 2,
+          "label": "パリ協定、3E+S",
+          "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2026_A_quiz_sustainability",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "climate_sustainability",
+          "count": 10,
+          "label": "人口、緩和と適応、MDGs/SDGs、Our Common Future、政策と科学",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_environment_sustainability_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2026_A_quiz_zero_carbon",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "climate_sustainability",
+          "count": 3,
+          "label": "SDGs/MDGs、MPI、エネルギー貧困",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "fusion_energy",
+      "label": "核融合 / 重水素・三重水素",
+      "bucket": "radiation_energy",
+      "total": 9,
+      "papers": [
+        "2026_A_lecture_fusion",
+        "2026_A_quiz_zero_carbon"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_lecture_fusion",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "lecture_note",
+          "topic": "fusion_energy",
+          "count": 4,
+          "label": "核融合、重水素、三重水素、エネルギー",
+          "path": "removed lecture-material note",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2026_A_quiz_zero_carbon",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "fusion_energy",
+          "count": 5,
+          "label": "DT 反応 17.6 MeV、質量欠損、1GW 炉の Li 消費、海水 Li 資源",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "plastic_recycling",
+      "label": "廃プラスチックリサイクル / MR・CR・TR",
+      "bucket": "resource_waste",
+      "total": 8,
+      "papers": [
+        "2026_A_quiz_plastic"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_plastic",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "plastic_recycling",
+          "count": 8,
+          "label": "MR/CR/TR, 85%, 25%, 中国, バーゼル条約, 廃プラスチック",
+          "path": "source/2026_A_1Q_quizzes/20260407_2026_A_1Q_plastic_recycling_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "pfas_cfc_novel_entities",
+      "label": "CFC / PFAS / Novel entities",
+      "bucket": "chemicals",
+      "total": 6,
+      "papers": [
+        "2026_A_quiz_green_chemistry"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_green_chemistry",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "pfas_cfc_novel_entities",
+          "count": 6,
+          "label": "CAS、CFC、PFAS/PFOS、Novel entities",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_green_chemistry_pfas_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "energy_quality",
+      "label": "エネルギー形態とエネルギーの質",
+      "bucket": "radiation_energy",
+      "total": 5,
+      "papers": [
+        "2026_A_quiz_energy",
+        "2026_A_quiz_zero_carbon"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_energy",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "energy_quality",
+          "count": 3,
+          "label": "エネルギー保存、質、熱移動の方向性",
+          "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        },
+        {
+          "paper_id": "2026_A_quiz_zero_carbon",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "energy_quality",
+          "count": 2,
+          "label": "E=mc^2、太陽の質量欠損計算",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "hydrogen_ccs_fuelcell",
+      "label": "水素 / CCS / 燃料電池",
+      "bucket": "radiation_energy",
+      "total": 5,
+      "papers": [
+        "2026_A_quiz_energy"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_energy",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "hydrogen_ccs_fuelcell",
+          "count": 5,
+          "label": "CCS、水素、燃料電池、白金触媒、コスト",
+          "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "green_chemistry",
+      "label": "グリーンケミストリー / サステイナブルケミストリー",
+      "bucket": "chemicals",
+      "total": 4,
+      "papers": [
+        "2026_A_quiz_green_chemistry"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_green_chemistry",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "green_chemistry",
+          "count": 4,
+          "label": "12原則、定義、ライフサイクル",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_green_chemistry_pfas_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "prtr_sds",
+      "label": "PRTR / SDS / 化学物質管理",
+      "bucket": "chemicals",
+      "total": 3,
+      "papers": [
+        "2026_A_quiz_life"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_life",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "prtr_sds",
+          "count": 3,
+          "label": "PRTR 515物質、トルエン、発がん性",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "keystone_species",
+      "label": "キーストーン種 / 生物多様性",
+      "bucket": "life_environment",
+      "total": 3,
+      "papers": [
+        "2026_A_quiz_life"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_life",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "keystone_species",
+          "count": 3,
+          "label": "生物多様性、キーストーン種、フラッグシップ種",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "biorefinery_bioplastics",
+      "label": "バイオリファイナリー / バイオプラスチック",
+      "bucket": "life_environment",
+      "total": 3,
+      "papers": [
+        "2026_A_quiz_life"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_life",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "biorefinery_bioplastics",
+          "count": 3,
+          "label": "バイオリファイナリー、SDGs、バイオマスプラスチック",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "ecological_footprint",
+      "label": "エコロジカル・フットプリント",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2026_A_quiz_life"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_life",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "ecological_footprint",
+          "count": 1,
+          "label": "Q1",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "carbon_neutrality",
+      "label": "カーボンニュートラルと科学技術",
+      "bucket": "sustainability_climate",
+      "total": 1,
+      "papers": [
+        "2026_A_quiz_plastic"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_plastic",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "carbon_neutrality",
+          "count": 1,
+          "label": "カーボンニュートラルに対する科学の貢献",
+          "path": "source/2026_A_1Q_quizzes/20260407_2026_A_1Q_plastic_recycling_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "biomass_carbon_neutral",
+      "label": "バイオマスとカーボンニュートラル",
+      "bucket": "life_environment",
+      "total": 1,
+      "papers": [
+        "2026_A_quiz_life"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_life",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "biomass_carbon_neutral",
+          "count": 1,
+          "label": "Q9",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "bucket_presence": [
+    {
+      "bucket": "radiation_energy",
+      "total": 19
+    },
+    {
+      "bucket": "mixed",
+      "total": 11
+    },
+    {
+      "bucket": "chemicals",
+      "total": 6
+    },
+    {
+      "bucket": "resource_waste",
+      "total": 6
+    },
+    {
+      "bucket": "sustainability_climate",
+      "total": 6
+    },
+    {
+      "bucket": "life_environment",
+      "total": 5
+    }
+  ],
+  "prediction_scoreboard": [
+    {
+      "topic": "energy_quality",
+      "label": "エネルギー形態とエネルギーの質",
+      "final_exam_presence": 6,
+      "total_a_finals": 6,
+      "final_ratio": 1.0,
+      "current_support_items": 5,
+      "tier": "S"
+    },
+    {
+      "topic": "radiation_protection",
+      "label": "放射線防護三原則",
+      "final_exam_presence": 6,
+      "total_a_finals": 6,
+      "final_ratio": 1.0,
+      "current_support_items": 0,
+      "tier": "S"
+    },
+    {
+      "topic": "radiation_effects",
+      "label": "確定的影響 / 確率的影響",
+      "final_exam_presence": 6,
+      "total_a_finals": 6,
+      "final_ratio": 1.0,
+      "current_support_items": 0,
+      "tier": "S"
+    },
+    {
+      "topic": "true_false_general",
+      "label": "総合正誤問題",
+      "final_exam_presence": 6,
+      "total_a_finals": 6,
+      "final_ratio": 1.0,
+      "current_support_items": 0,
+      "tier": "S"
+    },
+    {
+      "topic": "personal_action",
+      "label": "個人の省エネルギー・省資源実践",
+      "final_exam_presence": 5,
+      "total_a_finals": 6,
+      "final_ratio": 0.833,
+      "current_support_items": 0,
+      "tier": "S"
+    },
+    {
+      "topic": "plastic_recycling",
+      "label": "廃プラスチックリサイクル / MR・CR・TR",
+      "final_exam_presence": 4,
+      "total_a_finals": 6,
+      "final_ratio": 0.667,
+      "current_support_items": 8,
+      "tier": "S"
+    },
+    {
+      "topic": "green_chemistry",
+      "label": "グリーンケミストリー / サステイナブルケミストリー",
+      "final_exam_presence": 4,
+      "total_a_finals": 6,
+      "final_ratio": 0.667,
+      "current_support_items": 4,
+      "tier": "S"
+    },
+    {
+      "topic": "keystone_species",
+      "label": "キーストーン種 / 生物多様性",
+      "final_exam_presence": 3,
+      "total_a_finals": 6,
+      "final_ratio": 0.5,
+      "current_support_items": 3,
+      "tier": "S"
+    },
+    {
+      "topic": "tipping_point",
+      "label": "地球環境問題のティッピングポイント",
+      "final_exam_presence": 4,
+      "total_a_finals": 6,
+      "final_ratio": 0.667,
+      "current_support_items": 0,
+      "tier": "A"
+    },
+    {
+      "topic": "climate_sustainability",
+      "label": "持続可能性 / SDGs / 気候変動対策",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 15,
+      "tier": "A"
+    },
+    {
+      "topic": "fusion_energy",
+      "label": "核融合 / 重水素・三重水素",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 9,
+      "tier": "A"
+    },
+    {
+      "topic": "pfas_cfc_novel_entities",
+      "label": "CFC / PFAS / Novel entities",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 6,
+      "tier": "A"
+    },
+    {
+      "topic": "prtr_sds",
+      "label": "PRTR / SDS / 化学物質管理",
+      "final_exam_presence": 2,
+      "total_a_finals": 6,
+      "final_ratio": 0.333,
+      "current_support_items": 3,
+      "tier": "B"
+    },
+    {
+      "topic": "dampness",
+      "label": "WHO dampness",
+      "final_exam_presence": 2,
+      "total_a_finals": 6,
+      "final_ratio": 0.333,
+      "current_support_items": 0,
+      "tier": "B"
+    },
+    {
+      "topic": "plastic_harm",
+      "label": "プラスチック環境影響（安定性・親油性・添加剤）",
+      "final_exam_presence": 2,
+      "total_a_finals": 6,
+      "final_ratio": 0.333,
+      "current_support_items": 0,
+      "tier": "B"
+    },
+    {
+      "topic": "hydrogen_ccs_fuelcell",
+      "label": "水素 / CCS / 燃料電池",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 5,
+      "tier": "B"
+    },
+    {
+      "topic": "biorefinery_bioplastics",
+      "label": "バイオリファイナリー / バイオプラスチック",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 3,
+      "tier": "B"
+    },
+    {
+      "topic": "ecological_footprint",
+      "label": "エコロジカル・フットプリント",
+      "final_exam_presence": 1,
+      "total_a_finals": 6,
+      "final_ratio": 0.167,
+      "current_support_items": 1,
+      "tier": "C"
+    },
+    {
+      "topic": "biomass_carbon_neutral",
+      "label": "バイオマスとカーボンニュートラル",
+      "final_exam_presence": 1,
+      "total_a_finals": 6,
+      "final_ratio": 0.167,
+      "current_support_items": 1,
+      "tier": "C"
+    },
+    {
+      "topic": "heat_engine_efficiency",
+      "label": "熱機関 / カルノー効率",
+      "final_exam_presence": 1,
+      "total_a_finals": 6,
+      "final_ratio": 0.167,
+      "current_support_items": 0,
+      "tier": "C"
+    },
+    {
+      "topic": "carbon_neutrality",
+      "label": "カーボンニュートラルと科学技術",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 1,
+      "tier": "C"
+    }
+  ],
+  "all_occurrences": [
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "plastic_recycling",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "tipping_point",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q4",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "keystone_species",
+      "count": 1,
+      "label": "Q6",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_1Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q7",
+      "path": "source/problems/2022_environment_safety_A_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "plastic_recycling",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "dampness",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q3",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q4",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "green_chemistry",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "keystone_species",
+      "count": 1,
+      "label": "Q6",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q7",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2022_A_2Q",
+      "year": 2022,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "personal_action",
+      "count": 1,
+      "label": "Q8",
+      "path": "source/problems/2022_environment_safety_A_2Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "plastic_recycling",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "tipping_point",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q4",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "keystone_species",
+      "count": 1,
+      "label": "Q6",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "personal_action",
+      "count": 1,
+      "label": "Q7",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2023_A_2Q",
+      "year": 2023,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q8",
+      "path": "source/problems/2023_environment_safety_A_2Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "plastic_harm",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "tipping_point",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q3-1",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3-2",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q4",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "green_chemistry",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "prtr_sds",
+      "count": 1,
+      "label": "Q6",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q7",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2024_A_1Q",
+      "year": 2024,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "personal_action",
+      "count": 1,
+      "label": "Q8",
+      "path": "source/problems/2024_environment_safety_A_1Q_final_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "plastic_harm",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "tipping_point",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q3-1",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3-2",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q4",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "green_chemistry",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "prtr_sds",
+      "count": 1,
+      "label": "Q6",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q7a",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_1Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "final",
+      "topic": "personal_action",
+      "count": 1,
+      "label": "Q7b",
+      "path": "source/problems/2025_environment_safety_A_1Q_recreated_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "plastic_recycling",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "dampness",
+      "count": 1,
+      "label": "Q2",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_protection",
+      "count": 1,
+      "label": "Q3-1",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "radiation_effects",
+      "count": 1,
+      "label": "Q3-2",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "energy_quality",
+      "count": 1,
+      "label": "Q4a",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "heat_engine_efficiency",
+      "count": 1,
+      "label": "Q4b",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "green_chemistry",
+      "count": 1,
+      "label": "Q5",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "biomass_carbon_neutral",
+      "count": 1,
+      "label": "Q6a",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "ecological_footprint",
+      "count": 1,
+      "label": "Q6b",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "true_false_general",
+      "count": 1,
+      "label": "Q7a",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2025_A_2Q",
+      "year": 2025,
+      "class_code": "A",
+      "quarter": "2Q",
+      "source_type": "final",
+      "topic": "personal_action",
+      "count": 1,
+      "label": "Q7b",
+      "path": "source/problems/2025_environment_safety_A_2Q_interpreted_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_plastic",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "plastic_recycling",
+      "count": 8,
+      "label": "MR/CR/TR, 85%, 25%, 中国, バーゼル条約, 廃プラスチック",
+      "path": "source/2026_A_1Q_quizzes/20260407_2026_A_1Q_plastic_recycling_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_plastic",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "carbon_neutrality",
+      "count": 1,
+      "label": "カーボンニュートラルに対する科学の貢献",
+      "path": "source/2026_A_1Q_quizzes/20260407_2026_A_1Q_plastic_recycling_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_energy",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "energy_quality",
+      "count": 3,
+      "label": "エネルギー保存、質、熱移動の方向性",
+      "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_energy",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "climate_sustainability",
+      "count": 2,
+      "label": "パリ協定、3E+S",
+      "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_energy",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "hydrogen_ccs_fuelcell",
+      "count": 5,
+      "label": "CCS、水素、燃料電池、白金触媒、コスト",
+      "path": "source/2026_A_1Q_quizzes/20260414_2026_A_1Q_energy_hydrogen_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_sustainability",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "climate_sustainability",
+      "count": 10,
+      "label": "人口、緩和と適応、MDGs/SDGs、Our Common Future、政策と科学",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_environment_sustainability_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_green_chemistry",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "green_chemistry",
+      "count": 4,
+      "label": "12原則、定義、ライフサイクル",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_green_chemistry_pfas_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_green_chemistry",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "pfas_cfc_novel_entities",
+      "count": 6,
+      "label": "CAS、CFC、PFAS/PFOS、Novel entities",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_green_chemistry_pfas_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_life",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "ecological_footprint",
+      "count": 1,
+      "label": "Q1",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_life",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "keystone_species",
+      "count": 3,
+      "label": "生物多様性、キーストーン種、フラッグシップ種",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_life",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "prtr_sds",
+      "count": 3,
+      "label": "PRTR 515物質、トルエン、発がん性",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_life",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "biomass_carbon_neutral",
+      "count": 1,
+      "label": "Q9",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_life",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "biorefinery_bioplastics",
+      "count": 3,
+      "label": "バイオリファイナリー、SDGs、バイオマスプラスチック",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_lecture_fusion",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "lecture_note",
+      "topic": "fusion_energy",
+      "count": 4,
+      "label": "核融合、重水素、三重水素、エネルギー",
+      "path": "removed lecture-material note",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_zero_carbon",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "climate_sustainability",
+      "count": 3,
+      "label": "SDGs/MDGs、MPI、エネルギー貧困",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_zero_carbon",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "energy_quality",
+      "count": 2,
+      "label": "E=mc^2、太陽の質量欠損計算",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    },
+    {
+      "paper_id": "2026_A_quiz_zero_carbon",
+      "year": 2026,
+      "class_code": "A",
+      "quarter": "1Q",
+      "source_type": "quiz",
+      "topic": "fusion_energy",
+      "count": 5,
+      "label": "DT 反応 17.6 MeV、質量欠損、1GW 炉の Li 消費、海水 Li 資源",
+      "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+      "certainty": "definite",
+      "note": ""
+    }
+  ]
+}

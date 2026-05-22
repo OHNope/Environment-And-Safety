@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+# Local editor and environment files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.bak

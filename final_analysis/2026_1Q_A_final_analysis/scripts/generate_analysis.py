@@ -180,7 +180,6 @@ QUIZ_SUPPORT = [
     Occurrence("2026_A_quiz_life", 2026, "A", "1Q", "quiz", "prtr_sds", 3, "PRTR 515物質、トルエン、発がん性", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md"),
     Occurrence("2026_A_quiz_life", 2026, "A", "1Q", "quiz", "biomass_carbon_neutral", 1, "Q9", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md"),
     Occurrence("2026_A_quiz_life", 2026, "A", "1Q", "quiz", "biorefinery_bioplastics", 3, "バイオリファイナリー、SDGs、バイオマスプラスチック", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md"),
-    Occurrence("2026_A_lecture_fusion", 2026, "A", "1Q", "lecture_note", "fusion_energy", 4, "核融合、重水素、三重水素、エネルギー", "removed lecture-material note"),
     Occurrence("2026_A_quiz_zero_carbon", 2026, "A", "1Q", "quiz", "climate_sustainability", 3, "SDGs/MDGs、MPI、エネルギー貧困", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md"),
     Occurrence("2026_A_quiz_zero_carbon", 2026, "A", "1Q", "quiz", "energy_quality", 2, "E=mc^2、太陽の質量欠損計算", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md"),
     Occurrence("2026_A_quiz_zero_carbon", 2026, "A", "1Q", "quiz", "fusion_energy", 5, "DT 反応 17.6 MeV、質量欠損、1GW 炉の Li 消費、海水 Li 資源", "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md"),
@@ -219,11 +218,24 @@ def prediction_rows(a_finals: list[Occurrence], quiz_support: list[Occurrence]) 
         final_count = final_presence.get(topic, 0)
         current_count = current_counts.get(topic, 0)
         final_ratio = final_count / total_papers if total_papers else 0
+        if final_count and current_count:
+            evidence = "A past + 2026 quiz"
+        elif final_count:
+            evidence = "A past only"
+        elif topic == "fusion_energy":
+            evidence = "2026 A quiz direct + B past pattern"
+        elif current_count:
+            evidence = "2026 A quiz only"
+        else:
+            evidence = "weak"
+
         if final_ratio >= 0.8:
             tier = "S"
         elif final_ratio >= 0.5 and current_count > 0:
             tier = "S"
-        elif final_ratio >= 0.5 or current_count >= 6:
+        elif final_ratio >= 0.5:
+            tier = "A"
+        elif topic == "fusion_energy" and current_count >= 5:
             tier = "A"
         elif final_ratio >= 0.3 or current_count >= 3:
             tier = "B"
@@ -238,6 +250,7 @@ def prediction_rows(a_finals: list[Occurrence], quiz_support: list[Occurrence]) 
                 "final_ratio": round(final_ratio, 3),
                 "current_support_items": current_count,
                 "tier": tier,
+                "evidence": evidence,
             }
         )
     tier_order = {"S": 0, "A": 1, "B": 2, "C": 3}
@@ -268,12 +281,12 @@ def write_topic_frequency(path: Path, rows: list[dict], scoreboard: list[dict]) 
             "",
             "## 2026 補正後スコア",
             "",
-            "| ランク | テーマ | 過去問出現 | 2026 小テスト / 講義資料メモ 支持 |",
-            "|---|---|---:|---:|",
+            "| ランク | テーマ | 過去問出現 | 2026 小テスト支持 | 根拠の型 |",
+            "|---|---|---:|---:|---|",
         ]
     )
     for row in scoreboard:
-        lines.append(f"| {row['tier']} | {row['label']} | {row['final_exam_presence']} / {row['total_a_finals']} | {row['current_support_items']} |")
+        lines.append(f"| {row['tier']} | {row['label']} | {row['final_exam_presence']} / {row['total_a_finals']} | {row['current_support_items']} | {row['evidence']} |")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -287,7 +300,7 @@ def main() -> None:
     scoreboard = prediction_rows(PAST_EXAM_OCCURRENCES, QUIZ_SUPPORT)
 
     summary = {
-        "dataset_note": "A クラス過去問と 2026 A 小テスト / 講義資料メモ を手動タグ付けした頻度集計。",
+        "dataset_note": "A クラス過去問と 2026 A 小テストを手動タグ付けした頻度集計。講義資料メモだけの根拠は数値スコアから外し、小テストまたは過去問で確認できるものを優先する。",
         "source_counts": {
             "a_final_occurrences": len(PAST_EXAM_OCCURRENCES),
             "current_support_occurrences": len(QUIZ_SUPPORT),
@@ -303,9 +316,9 @@ def main() -> None:
 
     (build_dir / "analysis_summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    lines = ["topic\tlabel\ta_final_exam_presence\ta_total_finals\tcurrent_support_items\ttier"]
+    lines = ["topic\tlabel\ta_final_exam_presence\ta_total_finals\tcurrent_support_items\ttier\tevidence"]
     for row in scoreboard:
-        lines.append(f"{row['topic']}\t{row['label']}\t{row['final_exam_presence']}\t{row['total_a_finals']}\t{row['current_support_items']}\t{row['tier']}")
+        lines.append(f"{row['topic']}\t{row['label']}\t{row['final_exam_presence']}\t{row['total_a_finals']}\t{row['current_support_items']}\t{row['tier']}\t{row['evidence']}")
     (build_dir / "prediction_scoreboard.tsv").write_text("\n".join(lines) + "\n", encoding="utf-8")
     write_topic_frequency(build_dir / "topic_frequency.md", final_rows, scoreboard)
 

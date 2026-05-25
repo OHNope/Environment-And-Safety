@@ -1,8 +1,8 @@
 {
-  "dataset_note": "A クラス過去問と 2026 A 小テスト / 講義資料メモ を手動タグ付けした頻度集計。",
+  "dataset_note": "A クラス過去問と 2026 A 小テストを手動タグ付けした頻度集計。講義資料メモだけの根拠は数値スコアから外し、小テストまたは過去問で確認できるものを優先する。",
   "source_counts": {
     "a_final_occurrences": 53,
-    "current_support_occurrences": 17,
+    "current_support_occurrences": 16,
     "a_final_papers": [
       "2022_A_1Q",
       "2022_A_2Q",
@@ -1999,47 +1999,6 @@
       ]
     },
     {
-      "topic": "fusion_energy",
-      "label": "核融合 / 重水素・三重水素",
-      "bucket": "radiation_energy",
-      "total": 9,
-      "papers": [
-        "2026_A_lecture_fusion",
-        "2026_A_quiz_zero_carbon"
-      ],
-      "years": [
-        2026
-      ],
-      "details": [
-        {
-          "paper_id": "2026_A_lecture_fusion",
-          "year": 2026,
-          "class_code": "A",
-          "quarter": "1Q",
-          "source_type": "lecture_note",
-          "topic": "fusion_energy",
-          "count": 4,
-          "label": "核融合、重水素、三重水素、エネルギー",
-          "path": "removed lecture-material note",
-          "certainty": "definite",
-          "note": ""
-        },
-        {
-          "paper_id": "2026_A_quiz_zero_carbon",
-          "year": 2026,
-          "class_code": "A",
-          "quarter": "1Q",
-          "source_type": "quiz",
-          "topic": "fusion_energy",
-          "count": 5,
-          "label": "DT 反応 17.6 MeV、質量欠損、1GW 炉の Li 消費、海水 Li 資源",
-          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
-          "certainty": "definite",
-          "note": ""
-        }
-      ]
-    },
-    {
       "topic": "plastic_recycling",
       "label": "廃プラスチックリサイクル / MR・CR・TR",
       "bucket": "resource_waste",
@@ -2128,6 +2087,33 @@
           "topic": "energy_quality",
           "count": 2,
           "label": "E=mc^2、太陽の質量欠損計算",
+          "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
+          "certainty": "definite",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "topic": "fusion_energy",
+      "label": "核融合 / 重水素・三重水素",
+      "bucket": "radiation_energy",
+      "total": 5,
+      "papers": [
+        "2026_A_quiz_zero_carbon"
+      ],
+      "years": [
+        2026
+      ],
+      "details": [
+        {
+          "paper_id": "2026_A_quiz_zero_carbon",
+          "year": 2026,
+          "class_code": "A",
+          "quarter": "1Q",
+          "source_type": "quiz",
+          "topic": "fusion_energy",
+          "count": 5,
+          "label": "DT 反応 17.6 MeV、質量欠損、1GW 炉の Li 消費、海水 Li 資源",
           "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_zero_carbon_energy_quiz_questions.md",
           "certainty": "definite",
           "note": ""
@@ -2385,7 +2371,8 @@
       "total_a_finals": 6,
       "final_ratio": 1.0,
       "current_support_items": 5,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "radiation_protection",
@@ -2394,7 +2381,8 @@
       "total_a_finals": 6,
       "final_ratio": 1.0,
       "current_support_items": 0,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past only"
     },
     {
       "topic": "radiation_effects",
@@ -2403,7 +2391,8 @@
       "total_a_finals": 6,
       "final_ratio": 1.0,
       "current_support_items": 0,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past only"
     },
     {
       "topic": "true_false_general",
@@ -2412,7 +2401,8 @@
       "total_a_finals": 6,
       "final_ratio": 1.0,
       "current_support_items": 0,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past only"
     },
     {
       "topic": "personal_action",
@@ -2421,7 +2411,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.833,
       "current_support_items": 0,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past only"
     },
     {
       "topic": "plastic_recycling",
@@ -2430,7 +2421,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.667,
       "current_support_items": 8,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "green_chemistry",
@@ -2439,7 +2431,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.667,
       "current_support_items": 4,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "keystone_species",
@@ -2448,7 +2441,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.5,
       "current_support_items": 3,
-      "tier": "S"
+      "tier": "S",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "tipping_point",
@@ -2457,16 +2451,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.667,
       "current_support_items": 0,
-      "tier": "A"
-    },
-    {
-      "topic": "climate_sustainability",
-      "label": "持続可能性 / SDGs / 気候変動対策",
-      "final_exam_presence": 0,
-      "total_a_finals": 6,
-      "final_ratio": 0.0,
-      "current_support_items": 15,
-      "tier": "A"
+      "tier": "A",
+      "evidence": "A past only"
     },
     {
       "topic": "fusion_energy",
@@ -2474,17 +2460,9 @@
       "final_exam_presence": 0,
       "total_a_finals": 6,
       "final_ratio": 0.0,
-      "current_support_items": 9,
-      "tier": "A"
-    },
-    {
-      "topic": "pfas_cfc_novel_entities",
-      "label": "CFC / PFAS / Novel entities",
-      "final_exam_presence": 0,
-      "total_a_finals": 6,
-      "final_ratio": 0.0,
-      "current_support_items": 6,
-      "tier": "A"
+      "current_support_items": 5,
+      "tier": "A",
+      "evidence": "2026 A quiz direct + B past pattern"
     },
     {
       "topic": "prtr_sds",
@@ -2493,7 +2471,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.333,
       "current_support_items": 3,
-      "tier": "B"
+      "tier": "B",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "dampness",
@@ -2502,7 +2481,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.333,
       "current_support_items": 0,
-      "tier": "B"
+      "tier": "B",
+      "evidence": "A past only"
     },
     {
       "topic": "plastic_harm",
@@ -2511,7 +2491,28 @@
       "total_a_finals": 6,
       "final_ratio": 0.333,
       "current_support_items": 0,
-      "tier": "B"
+      "tier": "B",
+      "evidence": "A past only"
+    },
+    {
+      "topic": "climate_sustainability",
+      "label": "持続可能性 / SDGs / 気候変動対策",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 15,
+      "tier": "B",
+      "evidence": "2026 A quiz only"
+    },
+    {
+      "topic": "pfas_cfc_novel_entities",
+      "label": "CFC / PFAS / Novel entities",
+      "final_exam_presence": 0,
+      "total_a_finals": 6,
+      "final_ratio": 0.0,
+      "current_support_items": 6,
+      "tier": "B",
+      "evidence": "2026 A quiz only"
     },
     {
       "topic": "hydrogen_ccs_fuelcell",
@@ -2520,7 +2521,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.0,
       "current_support_items": 5,
-      "tier": "B"
+      "tier": "B",
+      "evidence": "2026 A quiz only"
     },
     {
       "topic": "biorefinery_bioplastics",
@@ -2529,7 +2531,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.0,
       "current_support_items": 3,
-      "tier": "B"
+      "tier": "B",
+      "evidence": "2026 A quiz only"
     },
     {
       "topic": "ecological_footprint",
@@ -2538,7 +2541,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.167,
       "current_support_items": 1,
-      "tier": "C"
+      "tier": "C",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "biomass_carbon_neutral",
@@ -2547,7 +2551,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.167,
       "current_support_items": 1,
-      "tier": "C"
+      "tier": "C",
+      "evidence": "A past + 2026 quiz"
     },
     {
       "topic": "heat_engine_efficiency",
@@ -2556,7 +2561,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.167,
       "current_support_items": 0,
-      "tier": "C"
+      "tier": "C",
+      "evidence": "A past only"
     },
     {
       "topic": "carbon_neutrality",
@@ -2565,7 +2571,8 @@
       "total_a_finals": 6,
       "final_ratio": 0.0,
       "current_support_items": 1,
-      "tier": "C"
+      "tier": "C",
+      "evidence": "2026 A quiz only"
     }
   ],
   "all_occurrences": [
@@ -3424,19 +3431,6 @@
       "count": 3,
       "label": "バイオリファイナリー、SDGs、バイオマスプラスチック",
       "path": "source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md",
-      "certainty": "definite",
-      "note": ""
-    },
-    {
-      "paper_id": "2026_A_lecture_fusion",
-      "year": 2026,
-      "class_code": "A",
-      "quarter": "1Q",
-      "source_type": "lecture_note",
-      "topic": "fusion_energy",
-      "count": 4,
-      "label": "核融合、重水素、三重水素、エネルギー",
-      "path": "removed lecture-material note",
       "certainty": "definite",
       "note": ""
     },

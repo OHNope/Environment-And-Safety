@@ -2,6 +2,8 @@
 
 各問題の参照から、過去問、2026 小テスト、講義資料メモ 対応メモへ移動できる。
 
+ランクは [build/topic_frequency.md](build/topic_frequency.md) の根拠型に合わせて読む。A 過去問で反復するものを最優先にし、2026 A 小テストだけで支持されるものは、正誤・短答・差し替え候補として扱う。核融合は A 過去問固定ではないが、2026 A 小テストで計算まで直接確認され、B 過去問に既存テンプレートがあるため A 級の変化球として残す。
+
 ## S ランク
 
 1. プラスチック廃棄物の環境影響を、`安定性`、`親油性`、`添加剤` の 3 語を用いて説明せよ。  
@@ -37,7 +39,9 @@
 11. PRTR と SDS を説明せよ。  
     参照: [2024 A Q6](../../source/problems/2024_environment_safety_A_1Q_final_questions.md#L25), [2025 A Q6](../../source/problems/2025_environment_safety_A_1Q_recreated_questions.md#L25), [2026 A life quiz Q5-Q6](../../source/2026_A_1Q_quizzes/undated_2026_A_1Q_life_engineering_quiz_questions.md#L49)
 
-## A ランク
+## A ランク / 変化球・小テスト直撃
+
+1-5 は A 過去問または A 小テストと近い中頻度候補である。6-9 は環境サステナビリティ系の小テスト補強で、単独大問本命ではなく正誤・短答対策として読む。10-12 はゼロカーボンエネルギー小テスト直撃の変化球である。
 
 1. Novel entities とは何か。  
    参照: [2026 A グリーンケミストリー小テスト Q10](../../source/2026_A_1Q_quizzes/undated_2026_A_1Q_green_chemistry_pfas_quiz_questions.md#L104)
